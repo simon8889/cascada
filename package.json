@@ -1,0 +1,21 @@
+{
+    "name": "cascada",
+    "displayName": "Cascada",
+    "description": "a vs code theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "cascada",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cascada-color-theme.json"
+            }
+        ]
+    }
+}
