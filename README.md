@@ -5,6 +5,9 @@ cascada it is a green theme vs code, cascada is inspired by the color palette of
 
 ![cascada](https://simon8889.github.io/cascada-web/images/basic.jpg)
 
+## Get Cascada
+Download Cascada from [visual studio market place](https://marketplace.visualstudio.com/items?itemName=simonj.cascada)
+
 ## Cascada Web
 for more about cascada [cascada web](https://simon8889.github.io/cascada-web/)
 
