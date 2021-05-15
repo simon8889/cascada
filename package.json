@@ -3,7 +3,7 @@
     "displayName": "Cascada",
     "description": "Cascada it is a green theme vs code, cascada is inspired by the color palette of jungle landscapes. ",
     "publisher": "simonj",
-    "version": "1.0.2",
+    "version": "1.1.0",
     "engines": {
         "vscode": "^1.55.0"
     },
