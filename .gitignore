@@ -1,8 +1,8 @@
 node_modules
 *.vsix
 .vscode
-vsc-extension-quickstart.md
 .vscodeignore
+vsc-extension-quickstart.md
 CHANGELOG.md
 cascada-1.0.0.vsix
 cascada-logo.png
