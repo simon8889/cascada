@@ -190,7 +190,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#7C7287"
+				"foreground": "#e4dfe9"
 			}
 		},
 		{
@@ -273,7 +273,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#7C7287"
+				"foreground": "#e4dfe9"
 			}
 		},
 		{
@@ -347,7 +347,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#9c99a0"
+				"foreground": "#e4dfe9"
 			}
 		},
 		{
@@ -361,7 +361,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#9c99a0"
+				"foreground": "#e4dfe9"
 			}
 		},
 		{
@@ -394,7 +394,7 @@
 				"source.c"
 			],
 			"settings": {
-				"foreground": "#9c99a0"
+				"foreground": "#ede9f1"
 			}
 		},
 		{

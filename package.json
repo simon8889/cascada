@@ -15,6 +15,11 @@
                 "label": "cascada",
                 "uiTheme": "vs-dark",
                 "path": "./themes/cascada-color-theme.json"
+            },
+            {
+                "label": "cascada contrast",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cascada-contrast-color-theme.json"
             }
         ]
     }

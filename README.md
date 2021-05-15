@@ -1,13 +1,33 @@
-# README
-## This is the README for your extension "demo"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Cascada 🍃💧
+> a green vs code theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+cascada it is a green theme vs code, cascada is inspired by the color palette of jungle landscapes. Places like the Amazon inspire the colors of this theme, so the main color is green, accompanied by dark, blue and yellow colors. cascada makes use of transparencies for menus, and a use of hover to highlight things.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![cascada](https://simon8889.github.io/cascada-web/images/basic.jpg)
 
-**Enjoy!**
+## Cascada Web
+for more about cascada [cascada web](https://simon8889.github.io/cascada-web/)
+
+## GitHub
+got to see the source code in [GitHub]()
+
+## variants 
+cascada has two variants, cascada and cascada contrast, last one a bit more colorful. 
+
+### cascada
+![cascada original](https://simon8889.github.io/cascada-web/images/js.jpg)
+### cascada contrast 
+![cascada contrast](https://simon8889.github.io/cascada-web/images/js-contrast.jpg)
+## Demos 
+how cascada look in some languages. 
+### Javascript 
+![cascada theme in javascript](https://simon8889.github.io/cascada-web/images/js.jpg)
+### Python
+![cascada theme in python](https://simon8889.github.io/cascada-web/images/py.jpg)
+### HTML
+![cascada theme in HTML](https://simon8889.github.io/cascada-web/images/html.jpg)
+### CSS
+![cascada theme in CSS](https://simon8889.github.io/cascada-web/images/css.jpg)
+
+
+
