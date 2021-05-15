@@ -1,13 +1,34 @@
 {
     "name": "cascada",
     "displayName": "Cascada",
-    "description": "a vs code theme",
-    "version": "0.0.1",
+    "description": "Cascada it is a green theme vs code, cascada is inspired by the color palette of jungle landscapes. ",
+    "publisher": "simonj",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.55.0"
     },
     "categories": [
         "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/simon8889/cascada"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "cascada",
+        "green theme",
+        "nature theme",
+        "cascada theme"
+    ],
+    "icon": "https://simon8889.github.io/cascada-web/images/cascada-logo.jpg",
+    "homepage": "https://simon8889.github.io/cascada-web/",
+    "licenses" : [
+        {
+            "type": "MIT",
+            "url": "https://www.opensource.org/licenses/mit-license.php"
+        }
     ],
     "contributes": {
         "themes": [
